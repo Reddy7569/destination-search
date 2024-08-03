@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.destination_item {
+  list-style-type: none;
+  width: 235px;
+  margin: 15px;
+}
+.destination_image {
+  width: 235px;
+  height: 175px;
+}
+.name {
+  color: #000000;
+  font-size: 15px;
+}
